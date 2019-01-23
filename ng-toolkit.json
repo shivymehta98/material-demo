@@ -1,0 +1,8 @@
+{
+  "universal": {
+    "project": "material-demo",
+    "skipInstall": false,
+    "directory": ".",
+    "http": true
+  }
+}
