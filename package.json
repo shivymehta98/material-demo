@@ -33,6 +33,7 @@
     "@nguniversal/module-map-ngfactory-loader": "~7.0.0",
     "core-js": "^2.5.4",
     "cors": "~2.8.4",
+    "express": "^4.16.4",
     "git": "^0.1.5",
     "hammerjs": "^2.0.8",
     "heroku-cli": "^7.0.9",
